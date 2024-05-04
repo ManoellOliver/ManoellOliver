@@ -1,8 +1,10 @@
 ## Olá, eu sou Manoel Fernandes! Estudante de programação e tecnologia! 👋👨🏾‍💻
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoelloliver&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelloliver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+        <a href="#">
+                <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ManoellOliver&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+                <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoellOliver&layout=compact&langs_count=7&theme=radical"/>
+        </a>
+</div>
 - Redes Sociais:
 </br>
 <div> 
