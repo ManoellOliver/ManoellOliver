@@ -1,4 +1,4 @@
-## Olá, eu sou Manoel Fernandes! Estudante de programação e tecnologia! 👋👨🏾‍💻
+## Olá, eu sou Manoel Fernandes! 👋👨🏾‍💻
 <div align="center">
         <a href="#">
                 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ManoellOliver&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
